@@ -8,3 +8,6 @@
 [submodule "MultANOVA"]
 	path = MultANOVA
 	url = https://github.com/cran/MultANOVA
+[submodule "MultiResponseR"]
+	path = MultiResponseR
+	url = https://github.com/cran/MultiResponseR
